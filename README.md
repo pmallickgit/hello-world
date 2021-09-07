@@ -12,3 +12,4 @@ Tested the feature of Git
 - Delete the branch
 
 # Process flow
+New branch needs to be created
